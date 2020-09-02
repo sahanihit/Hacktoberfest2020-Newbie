@@ -1,4 +1,4 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2020 - Newbie
 
 This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
@@ -28,7 +28,7 @@ P.S. Star and share this repository, if you had fun!
 - Who can contribute?
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
   
-- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2018?
+- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2020?
   - 5
   
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2020?
