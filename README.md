@@ -32,9 +32,38 @@ github_user: *Your UserName*
 _Do not use special characters in the template above._
 
 ### 2. Basic HTML Page
-
-
-
+- Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
+- Copy the next template into your file and fill the information with yours.
+```
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+    
+    
+      <img class="profile-picture" src="*Your Image URL*" width="200"/>
+      <h1 class="name">  *Your Name*  </h1>
+      <h4 class="subtitle">  *Age*  </h4>
+    
+    
+    </div>
+    <div class="right">
+      <p class="bio">
+        
+        *Random Quote*
+      
+      </p>
+      <ul class="social-links">
+        
+        <li><a href="https://github.com/*yourusername*">  *Your Username* </a></li>
+      
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
+```
 
 ## Ideas for contributions
 
