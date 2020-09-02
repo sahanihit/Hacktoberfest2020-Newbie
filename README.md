@@ -28,8 +28,8 @@ quote: *Random Quote*
 github_user: *Your UserName*
 ---
 ```
-
 _Do not use special characters in the template above._
+- Commit Changes.
 
 ### 2. Basic HTML Page
 - Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
@@ -64,6 +64,7 @@ _Do not use special characters in the template above._
 </body>
 </html>
 ```
+- Commit Changes.
 
 ## Ideas for contributions
 
