@@ -17,7 +17,7 @@ P.S. Star and share this repository, if you had fun!
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
-- Create the file 1.About_Me/YOUR-USERNAME.md/ It should look something like this `1.About_Me/<YOUR-USERNAME>.md/`. .
+- Create the file 1.About_Me/YOUR-USERNAME.md It should look something like this `1.About_Me/<YOUR-USERNAME>.md`
 - Copy the next template into your file and fill the information with yours.
 ```
 ---
