@@ -14,8 +14,26 @@ P.S. Star and share this repository, if you had fun!
 
 ## Getting Started
 
--
--
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+
+### 1. About Me
+- Create the file 1.About_Me/YOUR-USERNAME.md/ It should look something like this `1.About_Me/<YOUR-USERNAME>.md/`. .
+- Copy the next template into your file and fill the information with yours.
+```
+---
+name: *Your Name*
+age: *Your Age*
+institution: *Your Institution*
+quote: *Random Quote*
+github_user: *Your UserName*
+---
+```
+
+_Do not use special characters in the template above._
+
+### 2. Basic HTML Page
+
+
 
 
 ## Ideas for contributions
