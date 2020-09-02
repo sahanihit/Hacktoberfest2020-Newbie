@@ -17,7 +17,7 @@ P.S. Star and share this repository, if you had fun!
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
-- Create the file 1.About_Me/YOUR-USERNAME.md It should look something like this `1.About_Me/<YOUR-USERNAME>.md`
+- Create the file 1.AboutMe/YOUR-USERNAME.md It should look something like this `1.AboutMe/<YOUR-USERNAME>.md`
 - Copy the next template into your file and fill the information with yours.
 ```
 ---
@@ -40,24 +40,24 @@ _Do not use special characters in the template above._
 <body>
   <div class="wrapper">
     <div class="left">
-    
-    
+
+
       <img class="profile-picture" src="*Your Image URL*" width="200"/>
       <h1 class="name">  *Your Name*  </h1>
       <h4 class="subtitle">  *Age*  </h4>
-    
-    
+
+
     </div>
     <div class="right">
       <p class="bio">
-        
+
         *Random Quote*
-      
+
       </p>
       <ul class="social-links">
-        
+
         <li><a href="https://github.com/*yourusername*">  *Your Username* </a></li>
-      
+
       </ul>
     </div>
   </div>
@@ -75,16 +75,16 @@ _Do not use special characters in the template above._
 
 - Who can contribute?
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
-  
+
 - How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2020?
   - 5
-  
+
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2020?
   - go to : [https://hacktoberfest.digitalocean.com/stats/](https://hacktoberfest.digitalocean.com/stats/)
-  
+
 - What is the duration of Hacktoberfest 2020?
   - It is from 1st october to 31st october 2020.
-  
+
 - What is the event for?
   - For the open source community engagement.
 
