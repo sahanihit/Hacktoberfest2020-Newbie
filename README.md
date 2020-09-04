@@ -18,7 +18,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
 - Create the file 1.AboutMe/YOUR-USERNAME.md It should look something like this `1.AboutMe/<YOUR-USERNAME>.md`
-- Copy the next template into your file and fill the information with yours.
+- Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 ---
 name: *Your Name*
@@ -33,7 +33,7 @@ _Do not use special characters in the template above._
 
 ### 2. Basic HTML Page
 - Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
-- Copy the next template into your file and fill the information with yours.
+- Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 <html>
 <head><link rel="stylesheet" type="text/css" href="style.css"></head>
@@ -63,6 +63,50 @@ _Do not use special characters in the template above._
   </div>
 </body>
 </html>
+```
+- Commit Changes.
+
+### 3. Basic Python Program
+- Create the file 3.Python/YOUR-USERNAME.py It should look something like this `3.Python/<YOUR-USERNAME>.py`
+- Copy the next template into your file and fill the information with yours. (Replace along with * )
+```
+name, age = "*YOUR NAME*", *YOUR AGE*
+username = "*YOUR USERNAME*"
+print ('Hello!')
+print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
+```
+- Commit Changes.
+
+### 4.Basic C Program
+- Create the file 4.C/YOUR-USERNAME.c It should look something like this `4.C/<YOUR-USERNAME>.c`
+- Copy the next template into your file and fill the information with yours. (Replace along with * )
+```
+#include <stdio.h>
+ int main()
+  {
+     printf("Hello!\n");
+     printf("Name   : *YOUR NAME*\n");
+     printf("Age    : *YOUR AGE*\n");
+     printf("Username : *YOUR USERNAME*\n");
+     return(0);
+  }
+```
+- Commit Changes.
+
+### 5.Basic Java Program
+- Create the file 5.Java/YOUR-USERNAME.java It should look something like this `5.Java/<YOUR-USERNAME>.java`
+- Copy the next template into your file and fill the information with yours. (Replace along with * )
+```
+class *YOUR USERNAME* {
+    public static void main(String[] args) {
+
+    String name = "*YOUR NAME*";
+    int age = *YOUR AGE* ;
+    String username = "*YOUR USERNAME*";
+
+        System.out.println("Hello!\nName: "+name+"\nAge: "+age+ "\nUsername: "+username);
+    }
+}
 ```
 - Commit Changes.
 
