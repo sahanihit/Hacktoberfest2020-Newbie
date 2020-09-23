@@ -20,7 +20,7 @@ P.S. Star and share this repository, if you had fun!
 - Create a [Github](https://github.com/) account for free [here](https://github.com/).
 - Register at [Hactoberfest-2020](https://hacktoberfest.digitalocean.com/) using your github id.
 - Star this repo and share it with your friends.
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+- Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
 - Go to 1.AboutMe folder.
