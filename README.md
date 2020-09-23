@@ -1,6 +1,4 @@
 <img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/Assets/Selection_026.png"/>
-<iframe src="http://free.timeanddate.com/countdown/i7h0qyzb/n1892/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2020-10-01T00:00:00" allowTransparency="true" frameborder="0" width="188" height="69"></iframe>
-
 
 # Hacktoberfest 2020 - Newbie
 
