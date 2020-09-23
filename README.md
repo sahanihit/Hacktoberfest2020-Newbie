@@ -29,7 +29,9 @@ github_user: *Your UserName*
 ---
 ```
 _Do not use special characters in the template above._
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 2. Basic HTML Page
 - Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
@@ -64,7 +66,9 @@ _Do not use special characters in the template above._
 </body>
 </html>
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 3. Basic Python Program
 - Create the file 3.Python/YOUR-USERNAME.py It should look something like this `3.Python/<YOUR-USERNAME>.py`
@@ -75,7 +79,9 @@ username = "*YOUR USERNAME*"
 print ('Hello!')
 print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 4.Basic C Program
 - Create the file 4.C/YOUR-USERNAME.c It should look something like this `4.C/<YOUR-USERNAME>.c`
@@ -91,7 +97,9 @@ print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
      return(0);
   }
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 5.Basic Java Program
 - Create the file 5.Java/YOUR-USERNAME.java It should look something like this `5.Java/<YOUR-USERNAME>.java`
@@ -108,7 +116,9 @@ class *YOUR USERNAME* {
     }
 }
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ## Ideas for contributions
 
