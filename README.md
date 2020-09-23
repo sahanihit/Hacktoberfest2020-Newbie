@@ -17,7 +17,8 @@ P.S. Star and share this repository, if you had fun!
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
-- Create the file 1.AboutMe/YOUR-USERNAME.md It should look something like this `1.AboutMe/<YOUR-USERNAME>.md`
+- Go to 1.AboutMe folder.
+- Create the file YOUR-USERNAME.md
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 ---
@@ -34,7 +35,8 @@ _Do not use special characters in the template above._
 - Create pull request
 
 ### 2. Basic HTML Page
-- Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
+- Go to 2.HTML folder.
+- Create the file YOUR-USERNAME.html
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 <html>
@@ -71,7 +73,8 @@ _Do not use special characters in the template above._
 - Create pull request
 
 ### 3. Basic Python Program
-- Create the file 3.Python/YOUR-USERNAME.py It should look something like this `3.Python/<YOUR-USERNAME>.py`
+- Go to 3.Python folder.
+- Create the file YOUR-USERNAME.py
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 name, age = "*YOUR NAME*", *YOUR AGE*
@@ -84,7 +87,8 @@ print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
 - Create pull request
 
 ### 4.Basic C Program
-- Create the file 4.C/YOUR-USERNAME.c It should look something like this `4.C/<YOUR-USERNAME>.c`
+- Go to 4.C folder.
+- Create the file YOUR-USERNAME.c
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 #include <stdio.h>
@@ -102,7 +106,8 @@ print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
 - Create pull request
 
 ### 5.Basic Java Program
-- Create the file 5.Java/YOUR-USERNAME.java It should look something like this `5.Java/<YOUR-USERNAME>.java`
+- Go to 5.Java folder.
+- Create the file YOUR-USERNAME.java
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 class *YOUR USERNAME* {
