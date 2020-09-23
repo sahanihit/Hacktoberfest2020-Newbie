@@ -1,3 +1,6 @@
+<img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/Assets/Selection_026.png"/>
+
+
 # Hacktoberfest 2020 - Newbie
 
 This is a beginner-friendly project to help you get started with your
@@ -14,6 +17,9 @@ P.S. Star and share this repository, if you had fun!
 
 ## Getting Started
 
+- Create a [Github](https://github.com/) account for free [here](https://github.com/).
+- Register at [Hactoberfest-2020](https://hacktoberfest.digitalocean.com/) using your github id.
+- Star this repo and share it with your friends.
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
