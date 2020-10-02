@@ -1,0 +1,10 @@
+#include <stdio.h> 
+ int main()
+  {
+     printf("Hello!\n");
+     printf("Name   : *Praggya Pandey*\n");
+     printf("Age    : *18*\n");
+     printf("Username : *Praggya17*\n");
+     return(0);
+  }
+© 2020 GitHub, Inc.
