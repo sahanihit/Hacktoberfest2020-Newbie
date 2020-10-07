@@ -2,8 +2,8 @@
  int main()
   {
      printf("Hello!\n");
-     printf("Name   : *YOUR NAME*\n");
-     printf("Age    : *YOUR AGE*\n");
-     printf("Username : *YOUR USERNAME*\n");
+     printf("Name   : Sakshi Jain\n");
+     printf("Age    : 20\n");
+     printf("Username : im-sakshijain\n");
      return(0);
   }

@@ -1,10 +1,10 @@
-class *YOUR USERNAME* {
+class *im-sakshijain* {
     public static void main(String[] args) {
 
-    String name = "*YOUR NAME*";
-    int age = *YOUR AGE* ;
-    String username = "*YOUR USERNAME*";
+    String name = "Sakshi Jain";
+    int age = 20 ;
+    String username = "im-sakshijain";
 
-        System.out.println("Hello!\nName: "+name+"\nAge: "+age+ "\nUsername: "+username);
+        System.out.println("Hello!\nName: "+sakshi jain+"\nAge: "+20+ "\nUsername: "+im-sakshijain);
     }
 }

@@ -1,7 +1,7 @@
 ---
-name: *Your Name*
-age: *Your Age*
-institution: *Your Institution*
-quote: *Random Quote*
-github_user: *Your UserName*
+name: Sakshi Jain
+age: 20
+institution: Medi-caps University,Indore
+quote: You only live once,but if you do it right,one is enough.
+github_user: im-sakshijain
 ---
