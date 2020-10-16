@@ -1,3 +1,5 @@
+<img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/Assets/Selection_026.png"/>
+
 # Hacktoberfest 2020 - Newbie
 
 This is a beginner-friendly project to help you get started with your
@@ -14,10 +16,14 @@ P.S. Star and share this repository, if you had fun!
 
 ## Getting Started
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+- Create a [Github](https://github.com/) account for free [here](https://github.com/).
+- Register at [Hactoberfest-2020](https://hacktoberfest.digitalocean.com/) using your github id.
+- Star this repo and share it with your friends.
+- Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
-- Create the file 1.AboutMe/YOUR-USERNAME.md It should look something like this `1.AboutMe/<YOUR-USERNAME>.md`
+- Go to 1.AboutMe folder.
+- Create the file YOUR-USERNAME.md
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 ---
@@ -29,10 +35,13 @@ github_user: *Your UserName*
 ---
 ```
 _Do not use special characters in the template above._
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 2. Basic HTML Page
-- Create the file 2.HTML/YOUR-USERNAME.html It should look something like this `2.HTML/<YOUR-USERNAME>.html`
+- Go to 2.HTML folder.
+- Create the file YOUR-USERNAME.html
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 <html>
@@ -64,10 +73,13 @@ _Do not use special characters in the template above._
 </body>
 </html>
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 3. Basic Python Program
-- Create the file 3.Python/YOUR-USERNAME.py It should look something like this `3.Python/<YOUR-USERNAME>.py`
+- Go to 3.Python folder.
+- Create the file YOUR-USERNAME.py
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 name, age = "*YOUR NAME*", *YOUR AGE*
@@ -75,10 +87,13 @@ username = "*YOUR USERNAME*"
 print ('Hello!')
 print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 4.Basic C Program
-- Create the file 4.C/YOUR-USERNAME.c It should look something like this `4.C/<YOUR-USERNAME>.c`
+- Go to 4.C folder.
+- Create the file YOUR-USERNAME.c
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 #include <stdio.h>
@@ -91,10 +106,13 @@ print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
      return(0);
   }
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ### 5.Basic Java Program
-- Create the file 5.Java/YOUR-USERNAME.java It should look something like this `5.Java/<YOUR-USERNAME>.java`
+- Go to 5.Java folder.
+- Create the file YOUR-USERNAME.java
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
 class *YOUR USERNAME* {
@@ -108,7 +126,9 @@ class *YOUR USERNAME* {
     }
 }
 ```
-- Commit Changes.
+- press 'Propose New File' button
+- press 'Create pull request' button
+- Create pull request
 
 ## Ideas for contributions
 
