@@ -1,0 +1,72 @@
+<html>
+ <head>
+   <title>Login application</title>
+ </head>
+  <body>
+        <form>
+               <h2 style="color:red"><u>Please enter your details:</u></h2>
+                Email:<input type="text"  id=email><br><br>
+                Password:<input type="text"  id=pwd><br><br>
+        <button type="button" onclick="login_details(document.getElementById('email').value,
+    document.getElementById('pwd').value)">Submit</button>
+        </form>
+    <script>
+          function login_details(email,pwd)
+        {
+           var users=[  {email:'shreenath.waramballi@gmail.com',
+                         pwd:12345,
+                         firstname:'shreenath',
+                         lastname:'waramballi'
+                      },
+                      {
+                        email:'shreekanth.waramballi@gmail.com',
+                        pwd:123456,
+                        firstname:'shreekanth',
+                        lastname:'waramballi'
+                     },
+                      {
+                       email:'sachin.tendulkar@gmail.com',
+                       pwd:1234567,
+                       firstname:'sachin',
+                       lastname:'tendulkar'
+                      }  ]
+            var isPwdCorrect=false
+            var isUserFound=false
+            for(currentUser in users)
+             {
+                  if(users[currentUser]['email']==email)
+                  {
+                   if(users[currentUser]['pwd']==pwd)
+                   {
+                     isPwdCorrect=true
+                     isUserFound=true
+                     break
+                   }
+                   else
+                   {
+                    isUserFound=true  
+                    break
+                   }
+                  }
+                  else
+                  isUserFound=false
+            }
+               
+        if(isUserFound==true && isPwdCorrect==true)
+         {
+             alert("you are logged in");
+           
+         }
+         else if(isUserFound==true && isPwdCorrect==false)
+        {
+            alert("Incorrect password")
+        }
+        else
+        {
+            alert("invalid user")
+        }
+        }
+       
+     </script>
+</body>
+</html>
