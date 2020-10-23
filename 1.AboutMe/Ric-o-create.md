@@ -1,7 +1,7 @@
 ---
-name: *Your Name*
-age: *Your Age*
-institution: *Your Institution*
-quote: *Random Quote*
-github_user: *Your UserName*
+name: Ricardo Macario
+age: 20
+institution: Rome high school
+quote: the secret of getting ahead, is geting started
+github_user: Ric-o-create
 ---
