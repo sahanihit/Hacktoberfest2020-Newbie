@@ -75,7 +75,7 @@ _Do not use special characters in the template above._
 ```
 - press 'Propose New File' button
 - press 'Create pull request' button
-- Create pull request
+- Create pull a request
 
 ### 3. Basic Python Program
 - Go to 3.Python folder.
@@ -138,7 +138,7 @@ class *YOUR USERNAME* {
 ## FAQs
 
 - Who can contribute?
-  - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
+  - Anyone with a Github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
 - How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2020?
   - 5
@@ -147,10 +147,10 @@ class *YOUR USERNAME* {
   - go to : [https://hacktoberfest.digitalocean.com/stats/](https://hacktoberfest.digitalocean.com/stats/)
 
 - What is the duration of Hacktoberfest 2020?
-  - It is from 1st october to 31st october 2020.
+  - It is from 1st October to 31st October 2020.
 
 - What is the event for?
-  - For the open source community engagement.
+  - For the open-source community engagement.
 
 ### *I will do my best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible <3*
 
