@@ -1,0 +1,10 @@
+#include <stdio.h>
+ int main()
+  {
+     printf("Hello!\n");
+     printf("Name   : Sunayna Padhye\n");
+     printf("Age    : 19\n");
+     printf("Username : SunaynaPadhye\n");
+     printf("Quote : It's not always necessary to be strong, but to feel strong.\n\tJon Krakauer, Into the Wild\n"); 
+     return(0);
+  }
