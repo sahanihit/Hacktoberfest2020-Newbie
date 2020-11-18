@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+
+
+      <img class="profile-picture" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="200"/>
+      <h1 class="name">  Ariel Castle  </h1>
+      <h4 class="subtitle">  21  </h4>
+
+
+    </div>
+    <div class="right">
+      <p class="bio">
+
+        To be or, not to be.
+
+      </p>
+      <ul class="social-links">
+
+        <li><a href="https://github.com/AsiCas1417">  AsiCas1417 </a></li>
+
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
