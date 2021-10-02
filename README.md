@@ -5,7 +5,7 @@
 This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
 know where to start, feel free to watch the videos linked below, and
-read the contribution rules. Happy hacking <3 !!
+read the contribution rules. Happy hacking <3 !!!
 
 P.S. Star and share this repository, if you had fun!
 
@@ -18,7 +18,7 @@ P.S. Star and share this repository, if you had fun!
 
 - Create a [Github](https://github.com/) account for free [here](https://github.com/).
 - Register at [Hactoberfest-2020](https://hacktoberfest.digitalocean.com/) using your github id.
-- Star this repo and share it with your friends.
+- Star this repo(repository) and share it with your friends.
 - Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ### 1. About Me
@@ -77,7 +77,7 @@ _Do not use special characters in the template above._
 - press 'Create pull request' button
 - Create pull a request
 
-### 3. Basic Python Program
+### 3. Basic Python Program.
 - Go to 3.Python folder.
 - Create the file YOUR-USERNAME.py
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
